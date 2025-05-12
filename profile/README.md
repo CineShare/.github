@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://mentorize.me" target="_blank">
+  <a href="https://cineshare.germondai.com" target="_blank">
     <span>CineShare</span>
   </a>
 </h1>
